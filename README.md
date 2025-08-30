@@ -30,6 +30,9 @@ make setup
 # Iniciar os containers Docker (PostgreSQL)
 make up
 
+# Executar a conexão com os banco de dados
+make debug
+
 # Executar as transformações DBT
 make run
 
@@ -40,31 +43,9 @@ make test
 make docs
 ```
 
-### Conteúdo do Treinamento
-
-1. **Fundamentos do DBT Core**
-   - Arquitetura e conceitos básicos
-   - Configuração do ambiente de desenvolvimento
-
-2. **Modelagem de Dados com DBT**
-   - Criação de modelos em SQL
-   - Materialização eficiente (views, tabelas, incrementais)
-
-3. **Testes e Qualidade de Dados**
-   - Testes genéricos e singulares
-   - Validação de integridade dos dados
-
-4. **Documentação Automática**
-   - Documentação de modelos e colunas
-   - Visualização de linhagem de dados
-
-5. **Boas Práticas e Padrões**
-   - Organização de projetos
-   - Versionamento e CI/CD
-
 ### Conectando ao Banco de Dados
 
-Após executar `make up`, o PostgreSQL estará disponível em:
+Após executar `make up` e `make debug`, o PostgreSQL estará disponível em:
 - Host: localhost
 - Porta: 5432
 - Usuário: dev
