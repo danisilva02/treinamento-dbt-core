@@ -7,6 +7,6 @@ ecommerce:
       user: dev
       password: dev
       dbname: ecommerce
+      port: 5432
       schema: public
       threads: 4
-      port: 5432
