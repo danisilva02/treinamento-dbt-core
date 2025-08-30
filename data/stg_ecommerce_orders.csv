@@ -1,0 +1,6 @@
+order_id,customer_id,order_date,product,quantity,unit_price
+1,1001,2024-01-01,Headphones,1,199.99
+2,1002,2024-01-02,Smartphone,1,899.99
+3,1001,2024-01-03,Laptop,1,1299.00
+4,1003,2024-01-04,Monitor,2,299.90
+5,1004,2024-01-05,Mouse,3,49.99

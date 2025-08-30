@@ -1,0 +1,101 @@
+customer_id,first_name,last_name,email,phone,address,city,state,country,postal_code,registration_date
+1001,João,Silva,joao.silva@email.com,(11)98765-4321,Rua das Flores 123,São Paulo,SP,Brasil,01234-567,2023-01-15
+1002,Maria,Santos,maria.santos@email.com,(21)99876-5432,Av. Atlântica 456,Rio de Janeiro,RJ,Brasil,20000-123,2023-02-10
+1003,Pedro,Oliveira,pedro.oliveira@email.com,(31)97654-3210,Rua Direita 789,Belo Horizonte,MG,Brasil,30123-456,2023-01-20
+1004,Ana,Pereira,ana.pereira@email.com,(41)96543-2109,Av. Paulista 1010,Curitiba,PR,Brasil,80123-789,2023-03-05
+1005,Carlos,Ferreira,carlos.ferreira@email.com,(51)95432-1098,Rua das Palmeiras 222,Porto Alegre,RS,Brasil,90123-456,2023-02-25
+1006,Mariana,Costa,mariana.costa@email.com,(61)94321-0987,Av. Brasil 333,Brasília,DF,Brasil,70123-789,2023-01-30
+1007,Lucas,Rodrigues,lucas.rodrigues@email.com,(71)93210-9876,Rua do Sol 444,Salvador,BA,Brasil,40123-456,2023-03-10
+1008,Juliana,Almeida,juliana.almeida@email.com,(81)92109-8765,Av. Boa Viagem 555,Recife,PE,Brasil,50123-789,2023-02-15
+1009,Rafael,Lima,rafael.lima@email.com,(85)91098-7654,Rua da Praia 666,Fortaleza,CE,Brasil,60123-456,2023-01-25
+1010,Fernanda,Gomes,fernanda.gomes@email.com,(91)90987-6543,Av. Amazonas 777,Belém,PA,Brasil,66123-789,2023-03-15
+1011,Bruno,Martins,bruno.martins@email.com,(92)89876-5432,Rua dos Andradas 888,Manaus,AM,Brasil,69123-456,2023-02-20
+1012,Camila,Sousa,camila.sousa@email.com,(98)78765-4321,Av. São Luís 999,São Luís,MA,Brasil,65123-789,2023-01-05
+1013,Diego,Barbosa,diego.barbosa@email.com,(27)67654-3210,Rua das Garças 111,Vitória,ES,Brasil,29123-456,2023-03-20
+1014,Patrícia,Ribeiro,patricia.ribeiro@email.com,(62)56543-2109,Av. Goiânia 222,Goiânia,GO,Brasil,74123-789,2023-02-05
+1015,Gustavo,Carvalho,gustavo.carvalho@email.com,(63)45432-1098,Rua Palmas 333,Palmas,TO,Brasil,77123-456,2023-01-10
+1016,Aline,Fernandes,aline.fernandes@email.com,(65)34321-0987,Av. Cuiabá 444,Cuiabá,MT,Brasil,78123-789,2023-03-25
+1017,Marcelo,Pinto,marcelo.pinto@email.com,(68)23210-9876,Rua Acre 555,Rio Branco,AC,Brasil,69123-456,2023-02-28
+1018,Vanessa,Moreira,vanessa.moreira@email.com,(82)12109-8765,Av. Maceió 666,Maceió,AL,Brasil,57123-789,2023-01-18
+1019,Ricardo,Teixeira,ricardo.teixeira@email.com,(95)01098-7654,Rua Roraima 777,Boa Vista,RR,Brasil,69123-456,2023-03-08
+1020,Daniela,Correia,daniela.correia@email.com,(79)90987-6543,Av. Aracaju 888,Aracaju,SE,Brasil,49123-789,2023-02-12
+1021,Fábio,Mendes,fabio.mendes@email.com,(86)89876-5432,Rua Teresina 999,Teresina,PI,Brasil,64123-456,2023-01-22
+1022,Cristina,Lopes,cristina.lopes@email.com,(84)78765-4321,Av. Natal 111,Natal,RN,Brasil,59123-789,2023-03-02
+1023,André,Nunes,andre.nunes@email.com,(69)67654-3210,Rua Porto Velho 222,Porto Velho,RO,Brasil,76123-456,2023-02-17
+1024,Renata,Machado,renata.machado@email.com,(83)56543-2109,Av. João Pessoa 333,João Pessoa,PB,Brasil,58123-789,2023-01-27
+1025,Thiago,Barros,thiago.barros@email.com,(96)45432-1098,Rua Macapá 444,Macapá,AP,Brasil,68123-456,2023-03-12
+1026,Bianca,Freitas,bianca.freitas@email.com,(47)34321-0987,Av. Florianópolis 555,Florianópolis,SC,Brasil,88123-789,2023-02-22
+1027,Leonardo,Cardoso,leonardo.cardoso@email.com,(88)23210-9876,Rua Juazeiro 666,Juazeiro do Norte,CE,Brasil,63123-456,2023-01-08
+1028,Natália,Duarte,natalia.duarte@email.com,(54)12109-8765,Av. Caxias 777,Caxias do Sul,RS,Brasil,95123-789,2023-03-18
+1029,Vinícius,Campos,vinicius.campos@email.com,(35)01098-7654,Rua Poços 888,Poços de Caldas,MG,Brasil,37123-456,2023-02-08
+1030,Larissa,Nascimento,larissa.nascimento@email.com,(43)90987-6543,Av. Londrina 999,Londrina,PR,Brasil,86123-789,2023-01-13
+1031,Felipe,Moraes,felipe.moraes@email.com,(16)89876-5432,Rua Ribeirão 111,Ribeirão Preto,SP,Brasil,14123-456,2023-03-23
+1032,Amanda,Dias,amanda.dias@email.com,(19)78765-4321,Av. Campinas 222,Campinas,SP,Brasil,13123-789,2023-02-03
+1033,Roberto,Fonseca,roberto.fonseca@email.com,(24)67654-3210,Rua Petrópolis 333,Petrópolis,RJ,Brasil,25123-456,2023-01-23
+1034,Carolina,Cavalcanti,carolina.cavalcanti@email.com,(81)56543-2109,Av. Caruaru 444,Caruaru,PE,Brasil,55123-789,2023-03-03
+1035,Rodrigo,Vieira,rodrigo.vieira@email.com,(38)45432-1098,Rua Montes Claros 555,Montes Claros,MG,Brasil,39123-456,2023-02-13
+1036,Isabela,Rocha,isabela.rocha@email.com,(75)34321-0987,Av. Feira 666,Feira de Santana,BA,Brasil,44123-789,2023-01-03
+1037,Marcos,Santana,marcos.santana@email.com,(14)23210-9876,Rua Bauru 777,Bauru,SP,Brasil,17123-456,2023-03-28
+1038,Letícia,Gonçalves,leticia.goncalves@email.com,(53)12109-8765,Av. Pelotas 888,Pelotas,RS,Brasil,96123-789,2023-02-18
+1039,Paulo,Andrade,paulo.andrade@email.com,(17)01098-7654,Rua São José 999,São José do Rio Preto,SP,Brasil,15123-456,2023-01-28
+1040,Beatriz,Monteiro,beatriz.monteiro@email.com,(28)90987-6543,Av. Cachoeiro 111,Cachoeiro de Itapemirim,ES,Brasil,29123-789,2023-03-13
+1041,Guilherme,Leite,guilherme.leite@email.com,(12)89876-5432,Rua São José 222,São José dos Campos,SP,Brasil,12123-456,2023-02-23
+1042,Tatiana,Ramos,tatiana.ramos@email.com,(49)78765-4321,Av. Chapecó 333,Chapecó,SC,Brasil,89123-789,2023-01-06
+1043,Henrique,Melo,henrique.melo@email.com,(32)67654-3210,Rua Juiz de Fora 444,Juiz de Fora,MG,Brasil,36123-456,2023-03-16
+1044,Jéssica,Araújo,jessica.araujo@email.com,(73)56543-2109,Av. Ilhéus 555,Ilhéus,BA,Brasil,45123-789,2023-02-26
+1045,Alexandre,Azevedo,alexandre.azevedo@email.com,(15)45432-1098,Rua Sorocaba 666,Sorocaba,SP,Brasil,18123-456,2023-01-16
+1046,Sabrina,Cunha,sabrina.cunha@email.com,(44)34321-0987,Av. Maringá 777,Maringá,PR,Brasil,87123-789,2023-03-06
+1047,Matheus,Silveira,matheus.silveira@email.com,(18)23210-9876,Rua Presidente Prudente 888,Presidente Prudente,SP,Brasil,19123-456,2023-02-16
+1048,Gabriela,Neves,gabriela.neves@email.com,(77)12109-8765,Av. Vitória da Conquista 999,Vitória da Conquista,BA,Brasil,45123-789,2023-01-26
+1049,Eduardo,Borges,eduardo.borges@email.com,(34)01098-7654,Rua Uberlândia 111,Uberlândia,MG,Brasil,38123-456,2023-03-11
+1050,Mônica,Marques,monica.marques@email.com,(22)90987-6543,Av. Campos 222,Campos dos Goytacazes,RJ,Brasil,28123-789,2023-02-21
+1051,Leandro,Castro,leandro.castro@email.com,(13)89876-5432,Rua Santos 333,Santos,SP,Brasil,11123-456,2023-01-11
+1052,Priscila,Nogueira,priscila.nogueira@email.com,(74)78765-4321,Av. Juazeiro 444,Juazeiro,BA,Brasil,48123-789,2023-03-21
+1053,Sérgio,Pires,sergio.pires@email.com,(42)67654-3210,Rua Ponta Grossa 555,Ponta Grossa,PR,Brasil,84123-456,2023-02-11
+1054,Eliane,Miranda,eliane.miranda@email.com,(64)56543-2109,Av. Anápolis 666,Anápolis,GO,Brasil,75123-789,2023-01-21
+1055,Antônio,Oliveira,antonio.oliveira@email.com,(87)45432-1098,Rua Petrolina 777,Petrolina,PE,Brasil,56123-456,2023-03-01
+1056,Silvia,Rezende,silvia.rezende@email.com,(33)34321-0987,Av. Governador Valadares 888,Governador Valadares,MG,Brasil,35123-789,2023-02-01
+1057,Márcio,Alves,marcio.alves@email.com,(94)23210-9876,Rua Marabá 999,Marabá,PA,Brasil,68123-456,2023-01-31
+1058,Luciana,Brito,luciana.brito@email.com,(55)12109-8765,Av. Santa Maria 111,Santa Maria,RS,Brasil,97123-789,2023-03-31
+1059,Fábio,Xavier,fabio.xavier@email.com,(93)01098-7654,Rua Santarém 222,Santarém,PA,Brasil,68123-456,2023-02-14
+1060,Adriana,Aguiar,adriana.aguiar@email.com,(97)90987-6543,Av. Tefé 333,Tefé,AM,Brasil,69123-789,2023-01-24
+1061,Cláudio,Vasconcelos,claudio.vasconcelos@email.com,(89)89876-5432,Rua Parnaíba 444,Parnaíba,PI,Brasil,64123-456,2023-03-04
+1062,Michele,Siqueira,michele.siqueira@email.com,(46)78765-4321,Av. Pato Branco 555,Pato Branco,PR,Brasil,85123-789,2023-02-04
+1063,Wagner,Guimarães,wagner.guimaraes@email.com,(37)67654-3210,Rua Divinópolis 666,Divinópolis,MG,Brasil,35123-456,2023-01-14
+1064,Simone,Bueno,simone.bueno@email.com,(67)56543-2109,Av. Dourados 777,Dourados,MS,Brasil,79123-789,2023-03-24
+1065,Luís,Tavares,luis.tavares@email.com,(48)45432-1098,Rua Criciúma 888,Criciúma,SC,Brasil,88123-456,2023-02-24
+1066,Andréia,Pacheco,andreia.pacheco@email.com,(66)34321-0987,Av. Rondonópolis 999,Rondonópolis,MT,Brasil,78123-789,2023-01-04
+1067,Rogério,Braga,rogerio.braga@email.com,(45)23210-9876,Rua Cascavel 111,Cascavel,PR,Brasil,85123-456,2023-03-14
+1068,Cintia,Abreu,cintia.abreu@email.com,(99)12109-8765,Av. Imperatriz 222,Imperatriz,MA,Brasil,65123-789,2023-02-09
+1069,Maurício,Coelho,mauricio.coelho@email.com,(23)01098-7654,Rua Angra 333,Angra dos Reis,RJ,Brasil,23123-456,2023-01-19
+1070,Viviane,Medeiros,viviane.medeiros@email.com,(36)90987-6543,Av. Pouso Alegre 444,Pouso Alegre,MG,Brasil,37123-789,2023-03-29
+1071,César,Maia,cesar.maia@email.com,(26)89876-5432,Rua Linhares 555,Linhares,ES,Brasil,29123-456,2023-02-19
+1072,Denise,Mesquita,denise.mesquita@email.com,(76)78765-4321,Av. Barreiras 666,Barreiras,BA,Brasil,47123-789,2023-01-09
+1073,Renato,Faria,renato.faria@email.com,(52)67654-3210,Rua Uruguaiana 777,Uruguaiana,RS,Brasil,97123-456,2023-03-19
+1074,Carla,Bastos,carla.bastos@email.com,(72)56543-2109,Av. Itabuna 888,Itabuna,BA,Brasil,45123-789,2023-02-07
+1075,Júlio,Paiva,julio.paiva@email.com,(25)45432-1098,Rua Teresópolis 999,Teresópolis,RJ,Brasil,25123-456,2023-01-17
+1076,Sandra,Figueiredo,sandra.figueiredo@email.com,(29)34321-0987,Av. Colatina 111,Colatina,ES,Brasil,29123-789,2023-03-27
+1077,Marcelo,Sales,marcelo.sales@email.com,(78)23210-9876,Rua Picos 222,Picos,PI,Brasil,64123-456,2023-02-27
+1078,Kátia,Peixoto,katia.peixoto@email.com,(39)12109-8765,Av. Patos de Minas 333,Patos de Minas,MG,Brasil,38123-789,2023-01-07
+1079,Nelson,Cordeiro,nelson.cordeiro@email.com,(59)01098-7654,Rua Mossoró 444,Mossoró,RN,Brasil,59123-456,2023-03-17
+1080,Valéria,Dantas,valeria.dantas@email.com,(57)90987-6543,Av. Arapiraca 555,Arapiraca,AL,Brasil,57123-789,2023-02-06
+1081,Adriano,Lacerda,adriano.lacerda@email.com,(58)89876-5432,Rua Cajazeiras 666,Cajazeiras,PB,Brasil,58123-456,2023-01-12
+1082,Lúcia,Magalhães,lucia.magalhaes@email.com,(56)78765-4321,Av. Bagé 777,Bagé,RS,Brasil,96123-789,2023-03-22
+1083,Flávio,Moura,flavio.moura@email.com,(40)67654-3210,Rua Joinville 888,Joinville,SC,Brasil,89123-456,2023-02-02
+1084,Raquel,Sampaio,raquel.sampaio@email.com,(60)56543-2109,Av. Sobral 999,Sobral,CE,Brasil,62123-789,2023-01-02
+1085,Daniel,Leal,daniel.leal@email.com,(20)45432-1098,Rua Niterói 111,Niterói,RJ,Brasil,24123-456,2023-03-07
+1086,Luciane,Carneiro,luciane.carneiro@email.com,(30)34321-0987,Av. Contagem 222,Contagem,MG,Brasil,32123-789,2023-02-10
+1087,José,Viana,jose.viana@email.com,(50)23210-9876,Rua Novo Hamburgo 333,Novo Hamburgo,RS,Brasil,93123-456,2023-01-20
+1088,Márcia,Sá,marcia.sa@email.com,(70)12109-8765,Av. Várzea Grande 444,Várzea Grande,MT,Brasil,78123-789,2023-03-30
+1089,Márcio,Lins,marcio.lins@email.com,(80)01098-7654,Rua Olinda 555,Olinda,PE,Brasil,53123-456,2023-02-29
+1090,Luciene,Caldas,luciene.caldas@email.com,(90)90987-6543,Av. São Gonçalo 666,São Gonçalo,RJ,Brasil,24123-789,2023-01-29
+1091,Sandro,Queiroz,sandro.queiroz@email.com,(11)89876-5432,Rua Guarulhos 777,Guarulhos,SP,Brasil,07123-456,2023-03-09
+1092,Elaine,Galvão,elaine.galvao@email.com,(21)78765-4321,Av. Duque de Caxias 888,Duque de Caxias,RJ,Brasil,25123-789,2023-02-15
+1093,Luiz,Prado,luiz.prado@email.com,(31)67654-3210,Rua Betim 999,Betim,MG,Brasil,32123-456,2023-01-25
+1094,Cristiane,Assis,cristiane.assis@email.com,(41)56543-2109,Av. São José dos Pinhais 111,São José dos Pinhais,PR,Brasil,83123-789,2023-03-05
+1095,Robson,Mota,robson.mota@email.com,(51)45432-1098,Rua Canoas 222,Canoas,RS,Brasil,92123-456,2023-02-25
+1096,Solange,Mello,solange.mello@email.com,(61)34321-0987,Av. Taguatinga 333,Taguatinga,DF,Brasil,72123-789,2023-01-30
+1097,Gilberto,Domingues,gilberto.domingues@email.com,(71)23210-9876,Rua Camaçari 444,Camaçari,BA,Brasil,42123-456,2023-03-10
+1098,Rosângela,Salgado,rosangela.salgado@email.com,(81)12109-8765,Av. Jaboatão 555,Jaboatão dos Guararapes,PE,Brasil,54123-789,2023-02-20
+1099,Cláudio,Rego,claudio.rego@email.com,(85)01098-7654,Rua Caucaia 666,Caucaia,CE,Brasil,61123-456,2023-01-10
+1100,Mônica,Alencar,monica.alencar@email.com,(91)90987-6543,Av. Ananindeua 777,Ananindeua,PA,Brasil,67123-789,2023-03-20
