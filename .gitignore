@@ -1,0 +1,14 @@
+poetry.lock
+.user.yml
+package-lock.yml
+dbt_integration_packages/*
+dbt_packages/*
+logs/*
+target/*
+.venv/*
+.pytest_cache/*
+.tox/*
+*.egg-info/*
+*.egg-info/.egg-info/*
+*.egg-info/.egg-info/PKG-INFO
+dbt_internal_packages/

@@ -1,0 +1,9 @@
+name: 'ecommerce'
+version: '1.0'
+profile: 'ecommerce'
+
+model-paths: ["models"]
+macro-paths: ["macros"]
+target-path: "target"
+clean-targets: ["target"]
+seed-paths: ["seeds"]
