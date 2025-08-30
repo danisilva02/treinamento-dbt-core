@@ -7,6 +7,7 @@ Este treinamento prático aborda a transformação de dados brutos em insights v
 ### Requisitos Técnicos
 
 - **Python 3.12** ou superior
+- **Poetry** Para gerenciamento de pacotes
 - **Docker** para execução do PostgreSQL localmente
 - Uma ferramenta de conexão com banco de dados (escolha uma):
   - [Beekeeper Studio](https://www.beekeeperstudio.io/) - Interface moderna e intuitiva para gerenciamento de bancos de dados
