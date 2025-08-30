@@ -45,7 +45,7 @@ make docs
 
 ### Conectando ao Banco de Dados
 
-Após executar `make up` e `make debug`, o PostgreSQL estará disponível em:
+Após executar `make up`, o PostgreSQL estará disponível em:
 - Host: localhost
 - Porta: 5432
 - Usuário: dev
