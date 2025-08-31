@@ -1,4 +1,4 @@
-name: 'ecommerce'
+name: 'treinamento-dbt-core'
 version: '1.0'
 profile: 'ecommerce'
 
