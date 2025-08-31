@@ -12,4 +12,3 @@ target/*
 *.egg-info/.egg-info/*
 *.egg-info/.egg-info/PKG-INFO
 dbt_internal_packages/
-.target/*
